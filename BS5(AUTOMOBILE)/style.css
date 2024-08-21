@@ -1,0 +1,174 @@
+.container,.contact {
+  border: 2px solid #000;
+  padding: 20px;
+  margin: 10px 0;
+ 
+ 
+}
+
+.box2{
+  border: none;
+}
+
+.box5{
+  margin: 0px;
+  
+}
+.box7{
+  border: 1.5px solid black;
+  height: 7vh;
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(white,grey);
+}
+.box7 h1{
+  width: 100%;
+}
+.box8,.box5{
+  border: none;
+}
+
+.box11 img{
+  width: 100%;
+}
+
+.box13{
+  width: 100px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1.5px solid black;
+  transition: transform 0.6s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box13:hover{
+  transform: scale(1.25);
+
+}
+.box14,.box11,.box12{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.f1{
+  font-size: 40px;
+  /* color: black; */
+}
+.f1:hover{
+  color: black;
+}
+
+
+
+.box15{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 2px solid #000;
+  height: 8vh;
+  background-image: linear-gradient(white,grey);
+
+}
+
+
+.card img{
+  width: 100%;
+  height: 35vh;
+  border-radius: 50%;
+}
+.contact{
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.card{
+  border: none !important;
+}
+
+.box4{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box4 h1{
+  color: white;
+  letter-spacing: 5px;
+}
+
+.box3 img{
+  width: 100%;
+  height: 20vh;
+}
+
+.box30{
+  width: 100px;
+  height: 50px;
+  border-radius: 40%;
+  border: 1.5px solid black;
+  transition: transform 0.6s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box30:hover{
+  transform: scale(1.25);
+
+}
+
+
+
+.c1{
+  font-size: 30px;
+  color: red;
+}
+
+.c2{
+  font-size: 30px;
+  color: blue;
+}
+
+.c3{
+  font-size: 30px;
+  color: rgb(107, 107, 242);
+}
+
+.c4{
+  font-size:30px;
+  color: #000;
+}
+
+
+.i3 img{
+  width: 100%;
+  height: 40vh;
+}
+
+.tel2{
+  border: 2px solid black;
+}
+
+.box29{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sc1{
+  border: none;
+  background-image: linear-gradient(grey,white);
+}
+.sc1 img{
+  width: 100%;
+  height: 30vh;
+}
+
+.foot1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
